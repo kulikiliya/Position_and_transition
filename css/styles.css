@@ -652,7 +652,6 @@ p {
 
   background-color: var(--navyblue-modal);
 
-  opacity: 1;
   transition: opacity var(--transition), visibility var(--transition);
 }
 
@@ -711,6 +710,6 @@ p {
   fill: var(--white-text);
   background-color: var(--pressed-state);
 }
-.modal-button .svg-button {
+.svg-button {
   transition: fill var(--transition);
 }
